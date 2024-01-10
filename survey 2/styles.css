@@ -1,0 +1,36 @@
+body {
+    font-family: "Muli-Regular";
+    font-size: 15px;
+    color: #999;
+    margin: 0; }
+
+
+.heading-1 {
+    background-color: whitesmoke;
+    opacity: 0.7;
+    font-weight: bolder;
+    border-radius: 25px;
+    margin-bottom: 40px;
+}
+
+.header-image {
+    width: 100%; /* Make the image take the full width of its container */
+}
+
+#survey-form {
+    margin: 0 auto;
+    color: #fff; /* Light green color */
+    font-size: medium;
+    font-weight: bold;
+    max-width: 700px;
+    height: auto;
+    background-color: #6d7f52; /* Adjust as needed */
+    opacity: 0.8;
+    padding: 30px;
+    text-align: center; /* Center-align the form content */
+}
+
+#title {
+    font-weight: bolder;
+    color: #6d7f52;
+}

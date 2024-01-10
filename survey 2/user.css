@@ -1,0 +1,37 @@
+
+.gradient-custom {
+    background: #6d7f52; /* Light Grey Background */
+    color: #4CAF50; /* Green Text Color */
+    text-align: center;
+    padding: 70px;
+}
+
+.container {
+    background: #ffffff; /* White Background for the Form Container */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1); /* Box Shadow for a Neat Look */
+}
+
+.card {
+    background: none; /* Transparent Background for the Card */
+    border: none; /* No Border */
+}
+
+.form-outline {
+    width: 100%; /* Full Width */
+}
+
+.btn-outline-light {
+    color: #6d7f52; /* White Text Color for the Button */
+}
+
+.btn-outline-light:hover {
+    background-color: #6d7f52; /* Green Background Color on Hover */
+    color: #ffffff; /* White Text Color on Hover */
+}
+
+.text-white,
+.text-white-50 {
+    color: #6d7f52; /* Green Text Color */
+}
